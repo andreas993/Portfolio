@@ -1,0 +1,6 @@
+G:\Exercises\Hangman\Hangman\Hangman\bin\Release\Hangman.exe.config
+G:\Exercises\Hangman\Hangman\Hangman\bin\Release\Hangman.exe
+G:\Exercises\Hangman\Hangman\Hangman\bin\Release\Hangman.pdb
+G:\Exercises\Hangman\Hangman\Hangman\obj\Release\Hangman.csproj.CoreCompileInputs.cache
+G:\Exercises\Hangman\Hangman\Hangman\obj\Release\Hangman.exe
+G:\Exercises\Hangman\Hangman\Hangman\obj\Release\Hangman.pdb

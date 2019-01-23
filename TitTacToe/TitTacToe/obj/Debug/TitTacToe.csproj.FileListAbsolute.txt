@@ -1,0 +1,14 @@
+D:\Course\FileIOc\TitTacToe\TitTacToe\bin\Debug\TitTacToe.exe.config
+D:\Course\FileIOc\TitTacToe\TitTacToe\bin\Debug\TitTacToe.exe
+D:\Course\FileIOc\TitTacToe\TitTacToe\bin\Debug\TitTacToe.pdb
+D:\Course\FileIOc\TitTacToe\TitTacToe\obj\Debug\TitTacToe.csproj.CoreCompileInputs.cache
+D:\Course\FileIOc\TitTacToe\TitTacToe\obj\Debug\TitTacToe.exe
+D:\Course\FileIOc\TitTacToe\TitTacToe\obj\Debug\TitTacToe.pdb
+D:\Course\FileIOc\TitTacToe\TitTacToe\obj\Debug\TitTacToe.csprojAssemblyReference.cache
+E:\Programming\C#\Exercises\TitTacToe\TitTacToe\bin\Debug\TitTacToe.exe.config
+E:\Programming\C#\Exercises\TitTacToe\TitTacToe\bin\Debug\TitTacToe.exe
+E:\Programming\C#\Exercises\TitTacToe\TitTacToe\bin\Debug\TitTacToe.pdb
+E:\Programming\C#\Exercises\TitTacToe\TitTacToe\obj\Debug\TitTacToe.csprojAssemblyReference.cache
+E:\Programming\C#\Exercises\TitTacToe\TitTacToe\obj\Debug\TitTacToe.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Exercises\TitTacToe\TitTacToe\obj\Debug\TitTacToe.exe
+E:\Programming\C#\Exercises\TitTacToe\TitTacToe\obj\Debug\TitTacToe.pdb
